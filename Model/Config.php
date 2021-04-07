@@ -23,7 +23,7 @@ namespace Lof\AdvancedSorting\Model;
 use \Magento\Catalog\Model\Config as ConfigCore;
 use Magento\Framework\App\Helper\Context;
 use Magento\Framework\Serialize\SerializerInterface;
-use DavidRobert\AdvancedSorting\Helper\Data;
+use Lof\AdvancedSorting\Helper\Data;
 
 class Config extends ConfigCore
 {
